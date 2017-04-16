@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/backend-venxpo.iml" filepath="$PROJECT_DIR$/backend-venxpo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend-venxpo.iml" filepath="$PROJECT_DIR$/.idea/modules/backend-venxpo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend-venxpo_main.iml" filepath="$PROJECT_DIR$/.idea/modules/backend-venxpo_main.iml" group="backend-venxpo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/backend-venxpo_test.iml" filepath="$PROJECT_DIR$/.idea/modules/backend-venxpo_test.iml" group="backend-venxpo" />
     </modules>
   </component>
 </project>
